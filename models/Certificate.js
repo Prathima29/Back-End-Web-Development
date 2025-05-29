@@ -1,0 +1,1 @@
+// Certificate schema for MongoDB
